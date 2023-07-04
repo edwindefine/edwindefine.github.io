@@ -83,7 +83,7 @@
         <div class="row justify-content-center text-center mb-5">
           <div class="col-md-2">
             <p>
-              <a href="https://youtube.com/channel/UC1JNrxsEa5lCyFqvqcj8xIw"><img src="https://img.shields.io/youtube/channel/subscribers/UC1JNrxsEa5lCyFqvqcj8xIw?style=social"/></a>
+              <a href="https://youtube.com/channel/UCBJm_G_Wa9eD6KT5u6OBWCg"><img src="https://img.shields.io/youtube/channel/subscribers/UCBJm_G_Wa9eD6KT5u6OBWCg?style=social"/></a>
             </p>
           </div>
           <div class="col-md-2">
@@ -237,7 +237,7 @@
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-U1DAWAznBHeqEIlVSCgzq+c9gqGAJn5c/t99JyeKa9xxaYpSvHU5awsuZVVFIhvj" crossorigin="anonymous"></script>
     <script>
-      const scriptURL = "https://script.google.com/macros/s/AKfycbxH7a6CqLJjbNPpS078aZ9FF2kg8e3ynRfbHp6pUd3L2khkTAbPo5UDqDGddKnaYta3Bw/exec";
+      const scriptURL = "hgttps://script.google.com/macros/s/AKfycbw5J6mAMsbxhFRiZ1tDA1YVAojqepFYcTPHRAhxhvOgVhkrPt-mZT5dKjBoNlr5qnSn/exec";
       const form = document.forms["edwin-contact-form"];
 
       const btnKirim = document.querySelector(".btn-kirim");
